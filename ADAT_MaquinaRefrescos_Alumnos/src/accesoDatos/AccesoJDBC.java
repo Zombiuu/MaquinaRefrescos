@@ -10,8 +10,8 @@ import java.util.HashMap;
 import java.util.Iterator;
 
 import javax.swing.JOptionPane;
-
-import com.sun.javafx.collections.MappingChange.Map;
+//
+//import com.sun.javafx.collections.MappingChange.Map;
 
 import auxiliares.LeeProperties;
 import logicaRefrescos.Deposito;
